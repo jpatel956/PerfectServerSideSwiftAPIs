@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/Promise.swift": {
+    "dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Promise.d",
+    "object": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Promise.swift.o",
+    "swiftmodule": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Promise~partial.swiftmodule",
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Promise.swiftdeps"
+  },
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/ThreadQueue.swift": {
+    "dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  },
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/Threading.swift": {
+    "dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Threading.d",
+    "object": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.build/Threading.swiftdeps"
+  }
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "cdcc20f6733b0c2688b03005b3ef8652"
+build_time: [1538486274, 212161000]
+inputs:
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/Promise.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/ThreadQueue.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Thread.git--3454351048481424/Sources/PerfectThread/Threading.swift": [1538486268, 0]

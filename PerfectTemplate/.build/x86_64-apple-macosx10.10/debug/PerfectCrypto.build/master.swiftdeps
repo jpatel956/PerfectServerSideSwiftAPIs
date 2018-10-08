@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "01453153458a22ff123f92603637a160"
+build_time: [1538486290, 587718000]
+inputs:
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/Algorithms.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/ByteIO.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/Extensions.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/JWT.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/Keys.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/OpenSSLInternal.swift": [1538486268, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-Crypto.git-431293995856350354/Sources/PerfectCrypto/PerfectCrypto.swift": [1538486268, 0]

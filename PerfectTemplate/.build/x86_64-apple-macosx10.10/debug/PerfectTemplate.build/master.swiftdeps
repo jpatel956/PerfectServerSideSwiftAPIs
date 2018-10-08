@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "01f86dc1364785fc81c29a724362f7f7"
+build_time: [1538551147, 267722000]
+inputs:
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/Sources/PerfectTemplate/main.swift": [1538549892, 0]

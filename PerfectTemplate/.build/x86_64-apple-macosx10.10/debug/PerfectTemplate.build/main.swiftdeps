@@ -1,0 +1,343 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "server"
+- "routes"
+- "returnJSONMessage"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- ">"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "Dictionary"
+- "File"
+- "FloatLiteralType"
+- "HTTPResponse"
+- "HTTPServer"
+- "Int"
+- "IntegerLiteralType"
+- "PerfectError"
+- "Routes"
+- "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "print"
+- "returnJSONMessage"
+- "routes"
+- "server"
+depends-member:
+- ["Sa", "count"]
+- ["s13ArrayProtocolP", "count"]
+- ["SK", "count"]
+- ["SK", "init"]
+- ["SK", "init"]
+- ["Sz", "init"]
+- ["11PerfectHTTP10MimeReaderC8BodySpecC", "fileName"]
+- ["11PerfectHTTP10MimeReaderC8BodySpecC", "tmpFileName"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "subscript"]
+- ["Sl", "count"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["Sl", "subscript"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "badRequest"]
+- ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "get"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "internalServerError"]
+- ["s23CustomStringConvertibleP", "post"]
+- ["s23CustomStringConvertibleP", "subscript"]
+- ["Se", "_getBuiltinLogicValue"]
+- ["Se", "badRequest"]
+- ["Se", "count"]
+- ["Se", "init"]
+- ["Se", "init"]
+- ["Se", "internalServerError"]
+- ["Se", "subscript"]
+- ["SD", "subscript"]
+- ["SE", "_getBuiltinLogicValue"]
+- ["SE", "badRequest"]
+- ["SE", "count"]
+- ["SE", "init"]
+- ["SE", "init"]
+- ["SE", "internalServerError"]
+- ["SE", "subscript"]
+- ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "count"]
+- ["SQ", "get"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "post"]
+- ["SQ", "subscript"]
+- ["s5ErrorP", "networkError"]
+- ["s25ExpressibleByArrayLiteralP", "count"]
+- ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["10PerfectLib4FileC", "init"]
+- ["10PerfectLib4FileC", "moveTo"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["11PerfectHTTP10HTTPMethodO", "get"]
+- ["11PerfectHTTP10HTTPMethodO", "post"]
+- ["11PerfectHTTP11HTTPRequestP", "param"]
+- ["11PerfectHTTP11HTTPRequestP", "postFileUploads"]
+- ["11PerfectHTTP11HTTPRequestP", "urlVariables"]
+- ["11PerfectHTTP12HTTPResponseP", "completed"]
+- ["11PerfectHTTP12HTTPResponseP", "setBody"]
+- !private ["11PerfectHTTP12HTTPResponseP", "setHeader"]
+- ["11PerfectHTTP18HTTPResponseStatusO", "badRequest"]
+- ["11PerfectHTTP18HTTPResponseStatusO", "internalServerError"]
+- ["17PerfectHTTPServer0B0C", "addRoutes"]
+- ["17PerfectHTTPServer0B0C", "documentRoot"]
+- ["17PerfectHTTPServer0B0C", "init"]
+- ["17PerfectHTTPServer0B0C", "serverPort"]
+- ["17PerfectHTTPServer0B0C", "start"]
+- ["SH", "_getBuiltinLogicValue"]
+- ["SH", "count"]
+- ["SH", "get"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "post"]
+- ["SH", "subscript"]
+- ["Si", "init"]
+- ["10PerfectLib15JSONConvertibleP", "_getBuiltinLogicValue"]
+- ["10PerfectLib15JSONConvertibleP", "count"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "subscript"]
+- ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["SM", "count"]
+- !private ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "contentType"]
+- ["Sj", "init"]
+- ["10PerfectLib0A5ErrorO", "networkError"]
+- ["Sk", "count"]
+- ["Sm", "count"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["11PerfectHTTP6RoutesV", "add"]
+- ["11PerfectHTTP6RoutesV", "init"]
+- ["ST", "count"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["ST", "subscript"]
+- ["17PerfectHTTPServer14ServerInstanceP", "addRoutes"]
+- ["17PerfectHTTPServer14ServerInstanceP", "documentRoot"]
+- ["17PerfectHTTPServer14ServerInstanceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "serverPort"]
+- ["17PerfectHTTPServer14ServerInstanceP", "start"]
+- ["SZ", "init"]
+- ["s13SignedNumericP", "init"]
+- ["Sx", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s18_BitwiseOperationsP", "init"]
+- ["s24_DestructorSafeContainerP", "count"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "Sa"
+- "s13ArrayProtocolP"
+- "SK"
+- "Sz"
+- "11PerfectHTTP10MimeReaderC8BodySpecC"
+- "Sb"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SD"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "10PerfectLib4FileC"
+- "s17FixedWidthIntegerP"
+- "11PerfectHTTP10HTTPMethodO"
+- "11PerfectHTTP11HTTPRequestP"
+- "11PerfectHTTP12HTTPResponseP"
+- "11PerfectHTTP18HTTPResponseStatusO"
+- "17PerfectHTTPServer0B0C"
+- "SH"
+- "Si"
+- "10PerfectLib15JSONConvertibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- !private "11PerfectHTTP18HTTPResponseHeaderO4NameO"
+- "Sj"
+- "10PerfectLib0A5ErrorO"
+- "Sk"
+- "Sm"
+- "11PerfectHTTP6RoutesV"
+- "ST"
+- "17PerfectHTTPServer14ServerInstanceP"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s18_BitwiseOperationsP"
+- "s24_DestructorSafeContainerP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.apinotesc"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode_10.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../asn1.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../tls1.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../dtls1.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ssl2.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../pem2.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../e_os2.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ssl23.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ssl3.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../x509v3.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../pkcs7.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../x509.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../sha.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../dsa.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ecdsa.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../rsa.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/../zlib.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/czlib.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../obj_mac.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../hmac.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ec.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../rand.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../pqueue.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../conf.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../opensslconf.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/../zconf.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../dh.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ecdh.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../lhash.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../stack.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../safestack.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/../zutil.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ssl.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../kssl.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/openssl.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../pem.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../bn.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../bio.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../crypto.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../comp.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../srtp.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../evp.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../ossl_typ.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../buffer.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../err.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/../inftrees.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../symhacks.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../cms.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../objects.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../opensslv.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/../x509_vfy.h"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git-1567710113473759273/COpenSSL/include/module.modulemap"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git-5064297830919219/PerfectCZlib/include/module.modulemap"
+- "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode_10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c134b03250abe089844384273367f646"

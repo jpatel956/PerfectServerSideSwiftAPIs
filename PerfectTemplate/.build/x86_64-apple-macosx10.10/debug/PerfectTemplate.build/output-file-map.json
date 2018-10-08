@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/master.swiftdeps"
+  },
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/Sources/PerfectTemplate/main.swift": {
+    "dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.d",
+    "object": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.swift.o",
+    "swiftmodule": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.swiftdeps"
+  }
+}

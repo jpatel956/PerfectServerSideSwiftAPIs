@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "673af5032823ee7807f4d10cd3d16e03"
+build_time: [1538486294, 915728000]
+inputs:
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/HTTPFilter.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/HTTPHeaders.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/HTTPMethod.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/HTTPRequest.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/HTTPResponse.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/MimeReader.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/MimeType.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/Routing.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/StaticFileHandler.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-7265342517674225274/Sources/PerfectHTTP/TypedRoutes.swift": [1538486269, 0]

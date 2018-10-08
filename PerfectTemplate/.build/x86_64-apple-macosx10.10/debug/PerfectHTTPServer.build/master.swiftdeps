@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "6b04a168ace615e42a1931ba3e27e7f0"
+build_time: [1538486300, 655574000]
+inputs:
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTPServer.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1538486269, 0]
+  "/Users/jpatel/Documents/ServerSideSwift/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git-439251056964029039/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1538486269, 0]
